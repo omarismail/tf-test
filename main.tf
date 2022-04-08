@@ -1,3 +1,3 @@
 output "foo_dir" {
-  value = "hello from root.a"
+  value = "hello from root.aa"
 }
