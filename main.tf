@@ -1,5 +1,5 @@
 resource "random_string" "example" {
-  length  = 16
+  length  = 17
   special = false
   upper   = false
 }
